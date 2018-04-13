@@ -1,23 +1,11 @@
-# Homework-Typescript-Generics-Decorators
+Steps to use app:
 
-1.
-Create a map using TypeScript Generics. The key is always a string.
+-Clone this repo.
 
-The value can be a string or a number. It has to work with both types.
+-Use "npm install" for installing all packages.
 
-It's got to have the following methods:
+-Use " tsc -t ES5 ./src/main.ts" to compile .ts file in .js  
 
-Creating a new key-value pair : setItem(key: string, item: T)
+-Open Index.html in browser
 
-Retrieving values : getItem(key: string)
-
-Remove all items : clear()
-
-Display all key-value items : printMap().
-
-2. 
-Create a "log" decorator function that will be attached to the method and will log function name and parameters.
-
-
-
-
+-Open console in browser: "F12" to see legged info
