@@ -1,0 +1,22 @@
+{
+  "name": "homework-typescript-generics-decorators",
+  "version": "1.0.0",
+  "description": "Homework Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasilepogonea/Homework-Typescript-Generics-Decorators.git"
+  },
+  "author": "Vasile Pogonea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vasilepogonea/Homework-Typescript-Generics-Decorators/issues"
+  },
+  "homepage": "https://github.com/vasilepogonea/Homework-Typescript-Generics-Decorators#readme",
+  "dependencies": {
+    "typescript": "^2.8.1"
+  }
+}
